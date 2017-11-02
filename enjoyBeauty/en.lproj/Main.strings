@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "自动播放"; ObjectID = "40A-hU-UH8"; */
+"40A-hU-UH8.text" = "自动播放";
+
+/* Class = "UILabel"; text = " 喜欢的图片"; ObjectID = "Ala-JW-sKt"; */
+"Ala-JW-sKt.text" = " 喜欢的图片";
+
+/* Class = "UITableViewSection"; headerTitle = "设置"; ObjectID = "Kke-6X-diT"; */
+"Kke-6X-diT.headerTitle" = "设置";
+
+/* Class = "UILabel"; text = "浏览记录"; ObjectID = "MlH-Ys-t4W"; */
+"MlH-Ys-t4W.text" = "浏览记录";
+
+/* Class = "UILabel"; text = " "; ObjectID = "OAH-lm-67X"; */
+"OAH-lm-67X.text" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = "我的"; ObjectID = "QIO-r6-4zO"; */
+"QIO-r6-4zO.headerTitle" = "我的";
+
+/* Class = "UILabel"; text = "开启切换分类按钮"; ObjectID = "ZFu-52-BkL"; */
+"ZFu-52-BkL.text" = "开启切换分类按钮";
+
+/* Class = "UILabel"; text = " "; ObjectID = "uRz-EX-0xK"; */
+"uRz-EX-0xK.text" = " ";
+
+/* Class = "UILabel"; text = "升级无广告版本"; ObjectID = "x6L-tG-tOO"; */
+"x6L-tG-tOO.text" = "升级无广告版本";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "zu9-cv-Bzj"; */
+"zu9-cv-Bzj.title" = "<";
